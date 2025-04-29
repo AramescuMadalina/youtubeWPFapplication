@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.net\\youtubeWPFapplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F95C666-1C86-4682-B503-8FE656B39865}|youtubeWPFapplication\\youtubeWPFapplication.csproj|c:\\.net\\youtubewpfapplication\\youtubewpfapplication\\viewsmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F95C666-1C86-4682-B503-8FE656B39865}|youtubeWPFapplication\\youtubeWPFapplication.csproj|solutionrelative:youtubewpfapplication\\viewsmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F95C666-1C86-4682-B503-8FE656B39865}|youtubeWPFapplication\\youtubeWPFapplication.csproj|c:\\.net\\youtubewpfapplication\\youtubewpfapplication\\components\\youtubeviewerslisting.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F95C666-1C86-4682-B503-8FE656B39865}|youtubeWPFapplication\\youtubeWPFapplication.csproj|solutionrelative:youtubewpfapplication\\components\\youtubeviewerslisting.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F95C666-1C86-4682-B503-8FE656B39865}|youtubeWPFapplication\\youtubeWPFapplication.csproj|c:\\.net\\youtubewpfapplication\\youtubewpfapplication\\views\\youtubeviewersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F95C666-1C86-4682-B503-8FE656B39865}|youtubeWPFapplication\\youtubeWPFapplication.csproj|solutionrelative:youtubewpfapplication\\views\\youtubeviewersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F95C666-1C86-4682-B503-8FE656B39865}|youtubeWPFapplication\\youtubeWPFapplication.csproj|c:\\.net\\youtubewpfapplication\\youtubewpfapplication\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F95C666-1C86-4682-B503-8FE656B39865}|youtubeWPFapplication\\youtubeWPFapplication.csproj|solutionrelative:youtubewpfapplication\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F95C666-1C86-4682-B503-8FE656B39865}|youtubeWPFapplication\\youtubeWPFapplication.csproj|c:\\.net\\youtubewpfapplication\\youtubewpfapplication\\components\\youtubeviewersdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F95C666-1C86-4682-B503-8FE656B39865}|youtubeWPFapplication\\youtubeWPFapplication.csproj|solutionrelative:youtubewpfapplication\\components\\youtubeviewersdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F95C666-1C86-4682-B503-8FE656B39865}|youtubeWPFapplication\\youtubeWPFapplication.csproj|c:\\.net\\youtubewpfapplication\\youtubewpfapplication\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F95C666-1C86-4682-B503-8FE656B39865}|youtubeWPFapplication\\youtubeWPFapplication.csproj|solutionrelative:youtubewpfapplication\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F95C666-1C86-4682-B503-8FE656B39865}|youtubeWPFapplication\\youtubeWPFapplication.csproj|c:\\.net\\youtubewpfapplication\\youtubewpfapplication\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F95C666-1C86-4682-B503-8FE656B39865}|youtubeWPFapplication\\youtubeWPFapplication.csproj|solutionrelative:youtubewpfapplication\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F95C666-1C86-4682-B503-8FE656B39865}|youtubeWPFapplication\\youtubeWPFapplication.csproj|c:\\.net\\youtubewpfapplication\\youtubewpfapplication\\youtubewpfapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6F95C666-1C86-4682-B503-8FE656B39865}|youtubeWPFapplication\\youtubeWPFapplication.csproj|solutionrelative:youtubewpfapplication\\youtubewpfapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 998,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\.net\\youtubeWPFapplication\\youtubeWPFapplication\\ViewsModel\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "youtubeWPFapplication\\ViewsModel\\ViewModelBase.cs",
+              "ToolTip": "C:\\.net\\youtubeWPFapplication\\youtubeWPFapplication\\ViewsModel\\ViewModelBase.cs",
+              "RelativeToolTip": "youtubeWPFapplication\\ViewsModel\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:38:44.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\.net\\youtubeWPFapplication\\youtubeWPFapplication\\App.xaml",
+              "RelativeDocumentMoniker": "youtubeWPFapplication\\App.xaml",
+              "ToolTip": "C:\\.net\\youtubeWPFapplication\\youtubeWPFapplication\\App.xaml",
+              "RelativeToolTip": "youtubeWPFapplication\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-28T12:51:05.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "YoutubeViewersDetails.xaml",
+              "DocumentMoniker": "C:\\.net\\youtubeWPFapplication\\youtubeWPFapplication\\Components\\YoutubeViewersDetails.xaml",
+              "RelativeDocumentMoniker": "youtubeWPFapplication\\Components\\YoutubeViewersDetails.xaml",
+              "ToolTip": "C:\\.net\\youtubeWPFapplication\\youtubeWPFapplication\\Components\\YoutubeViewersDetails.xaml",
+              "RelativeToolTip": "youtubeWPFapplication\\Components\\YoutubeViewersDetails.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-28T11:50:53.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YoutubeViewersView.xaml",
+              "DocumentMoniker": "C:\\.net\\youtubeWPFapplication\\youtubeWPFapplication\\Views\\YoutubeViewersView.xaml",
+              "RelativeDocumentMoniker": "youtubeWPFapplication\\Views\\YoutubeViewersView.xaml",
+              "ToolTip": "C:\\.net\\youtubeWPFapplication\\youtubeWPFapplication\\Views\\YoutubeViewersView.xaml",
+              "RelativeToolTip": "youtubeWPFapplication\\Views\\YoutubeViewersView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-28T11:26:02.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\.net\\youtubeWPFapplication\\youtubeWPFapplication\\App.xaml.cs",
+              "RelativeDocumentMoniker": "youtubeWPFapplication\\App.xaml.cs",
+              "ToolTip": "C:\\.net\\youtubeWPFapplication\\youtubeWPFapplication\\App.xaml.cs",
+              "RelativeToolTip": "youtubeWPFapplication\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:23:25.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YoutubeViewersListing.xaml",
+              "DocumentMoniker": "C:\\.net\\youtubeWPFapplication\\youtubeWPFapplication\\Components\\YoutubeViewersListing.xaml",
+              "RelativeDocumentMoniker": "youtubeWPFapplication\\Components\\YoutubeViewersListing.xaml",
+              "ToolTip": "C:\\.net\\youtubeWPFapplication\\youtubeWPFapplication\\Components\\YoutubeViewersListing.xaml",
+              "RelativeToolTip": "youtubeWPFapplication\\Components\\YoutubeViewersListing.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-28T11:23:19.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\.net\\youtubeWPFapplication\\youtubeWPFapplication\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "youtubeWPFapplication\\MainWindow.xaml",
+              "ToolTip": "C:\\.net\\youtubeWPFapplication\\youtubeWPFapplication\\MainWindow.xaml",
+              "RelativeToolTip": "youtubeWPFapplication\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-28T10:02:10.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "youtubeWPFapplication",
+              "DocumentMoniker": "C:\\.net\\youtubeWPFapplication\\youtubeWPFapplication\\youtubeWPFapplication.csproj",
+              "RelativeDocumentMoniker": "youtubeWPFapplication\\youtubeWPFapplication.csproj",
+              "ToolTip": "C:\\.net\\youtubeWPFapplication\\youtubeWPFapplication\\youtubeWPFapplication.csproj",
+              "RelativeToolTip": "youtubeWPFapplication\\youtubeWPFapplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-28T10:00:52.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
